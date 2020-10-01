@@ -44,6 +44,7 @@ main()
             case 4:
             {
                 printf("exit \n ");
+                exit(1);
                 break;
             }
             default:
@@ -73,6 +74,7 @@ main()
 case is_int:
   {
     printf ("insert value\n\n");
+      //stack insertion
     scanf("%d",&stack[top].ival);
     break;
     }

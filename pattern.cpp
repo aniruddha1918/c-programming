@@ -15,6 +15,7 @@
             /* code */
         }
         cout<<"hy"<<endl;
+        cout<<endl;
         /* code */
     }
     getch();
