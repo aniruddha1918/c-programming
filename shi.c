@@ -44,6 +44,7 @@ main()
             case 4:
             {
                 printf("exit \n ");
+                exit(1);
                 break;
             }
             default:
